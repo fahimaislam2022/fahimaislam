@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I’m Fahima Islam 👋</h1>
-<h3 align="center">CS Student • Aspiring ML Engineer • Builder from Dhaka, Bangladesh</h3>
+<h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
+<h3 align="center">CS Student • Aspiring ML Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/fahimaislam2022">
     <img src="https://img.shields.io/badge/GitHub-fahimaislam2022-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="http://www.linkedin.com/in/fahima-islam-a375a7263">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://sites.google.com/view/fahima-islam2000/home">
     <img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ## ✨ About Me
 
-I’m a passionate **Computer Science student** and an **aspiring Machine Learning Engineer** who loves transforming ideas into real, working systems.
+I’m a passionate **Computer Science student from AIUB** and an **aspiring Machine Learning Engineer** who loves transforming ideas into real, working systems.
 
 My GitHub isn’t just a place to store code — it’s a growing record of my journey through:
 
@@ -30,7 +30,56 @@ My GitHub isn’t just a place to store code — it’s a growing record of my j
 I enjoy building projects that are both **practical** and **educational**, with clean structure, thoughtful documentation, and reproducible workflows.
 
 ---
+## ⚙️ Languages & Tools
 
+### 🤖 Data Science & ML
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" alt="R" />
+  </a>
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+</p>
+
+### 🖥️ Software & Systems
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css,mysql,r,cpp" alt="Tech stack icons" />
+</p>
+
+---
 ## 🚀 What You’ll Find in My Repositories
 
 <details>
@@ -134,31 +183,6 @@ I try to make every repository a **learning experience**, not just a finished su
   Using Git meaningfully to show progress from initial prototype to polished solution
 
 ---
-
-## ⚙️ Languages & Tools
-
-| Language / Tool | Projects & Focus |
-|---|---|
-| **Python** | ML, deep learning notebooks, data analysis, asteroid hazard detection |
-| **R** | NLP on Amazon reviews, mental-health prediction, data science labs |
-| **PHP** | Hotel Management System backend, session handling |
-| **C#** | Super Shop Management System with SQL |
-| **JavaScript** | Front-end logic for web projects |
-| **HTML / CSS** | Responsive UI and web design |
-| **MySQL / SQL** | Database systems for full-stack projects |
-| **Assembly (EMU8086)** | Microprocessor and architecture labs |
-| **C++** | Graphics and simulation projects |
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css,mysql,r,cpp" alt="Tech stack icons" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -194,8 +218,8 @@ then feel free to explore my repositories and connect with me.
 
 <p align="center">
   <a href="https://github.com/fahimaislam2022">🔗 GitHub</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a>
+  <a href="http://www.linkedin.com/in/fahima-islam-a375a7263">💼 LinkedIn</a> •
+  <a href="https://sites.google.com/view/fahima-islam2000/home">🌐 Portfolio</a>
 </p>
 
 ---
