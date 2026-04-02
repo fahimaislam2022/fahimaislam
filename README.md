@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-%E2%9A%99%EF%B8%8F-FF8C00?style=for-the-badge" />
 </p>
 
----
+
 
 ## ⚙️ Languages & Tools
 <p align="center">
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
 
----
+
 
 ## 🚀 What You’ll Find in My Repositories
 <p align="center">
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Graphics%20%26%20Simulation-2E8B57?style=for-the-badge" />
 </p>
 
----
+
 <p align="center">
   <i>✨ Always learning, always building.</i>
 </p>
