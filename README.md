@@ -5,13 +5,13 @@
 </p>
 <p align="center">
   <a href="https://github.com/fahimaislam2022">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/fahima-islam-a375a7263">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sites.google.com/view/fahima-islam2000/home">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
