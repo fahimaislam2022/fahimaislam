@@ -1,121 +1,132 @@
-<h1 align="center">Hi, I'm Fahima Islam 👋</h1>
+<!-- =========================
+     PREMIUM GITHUB PROFILE README
+     for: fahimaislam2022
+========================= -->
 
-<p align="center">
-  <b>Exploring software development, machine learning, NLP, computer vision, and data-driven problem solving.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/fahimaislam2022?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-23-black?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20CV%20%7C%20Web%20Dev-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20R%20%7C%20PHP%20%7C%20C%2B%2B%20%7C%20Java-success?style=for-the-badge" />
-</p>
+# Fahima Islam
+### Building across **Machine Learning · NLP · Computer Vision · Web Systems · Databases**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=850&lines=Turning+ideas+into+projects+through+code+and+experimentation;Exploring+R%2C+C%23%2C+PHP%2C+C%2B%2B%2C+Java%2C+Assembly+and+Notebook-based+workflows;Working+on+NLP%2C+predictive+modeling%2C+CNNs%2C+database-driven+systems+and+web+applications;Learning+by+building%2C+testing%2C+improving+and+shipping+real+projects" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Repositories-Project%20Focused-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Portfolio-Repo%20Based-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Currently%20Exploring-AI%20%7C%20Systems%20%7C%20Web-success?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## About This Profile
 
-I’m a curious and hands-on developer who uses GitHub as a space to build, practice, and grow across multiple areas of computer science and software engineering.
+I use GitHub as a practical learning space where I build, test, and improve projects across multiple domains of computer science and software engineering.
 
-My repositories reflect a mix of:
+This profile reflects work in:
 
-- **Machine Learning & Data Science**
-  - predictive modeling
-  - classification and regression
-  - feature-based learning
-  - model evaluation
-  - data preprocessing and exploratory analysis
-
+- **Machine Learning**
 - **Natural Language Processing**
-  - text preprocessing
-  - tokenization, stemming, and lemmatization
-  - TF-IDF / vectorization workflows
-  - sentiment classification
-  - clustering and topic modeling
+- **Computer Vision**
+- **Deep Learning**
+- **Database-Driven Applications**
+- **Web Development**
+- **Core CS coursework and implementation-based practice**
 
-- **Computer Vision & Deep Learning**
-  - CNN-based image classification
-  - feature extraction
-  - regularization
-  - PyTorch-based model building
-  - medical image analysis
-
-- **Full-Stack / Database-Driven Development**
-  - C# + MS SQL applications
-  - PHP-based validation and backend logic
-  - HTML, CSS, JavaScript, DOM manipulation
-  - phpMyAdmin and relational database work
-
-- **Core CS and Academic Practice**
-  - algorithms
-  - computer graphics
-  - assembly / microprocessor work
-  - computer organization
-  - digital logic
-  - database and system design
-
-I enjoy building projects that combine **logic, data, experimentation, and practical implementation**—from management systems to NLP pipelines, from web applications to deep learning models.
+My repositories combine **hands-on development**, **data-driven experimentation**, and **problem-solving through code** — from management systems and interactive web projects to predictive modeling, sentiment analysis, clustering, topic modeling, and CNN-based image classification.
 
 ---
 
-## 🧠 What My GitHub Shows About Me
+## Interactive Snapshot
 
-💡 I like learning by **building real projects**  
-📊 I work with both **structured data and unstructured text/image data**  
-🛠️ I explore both **software engineering** and **AI-focused development**  
-📚 I use GitHub as a journey of **continuous learning, experimentation, and improvement**
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&hide_border=true" />
 
-## 🔍 Areas I’m Working On
+</div>
 
-- Machine Learning workflows
-- NLP pipelines and sentiment analysis
-- Computer Vision and CNN architectures
-- Data cleaning, preprocessing, and modeling
-- Web systems with frontend + backend integration
-- Database-connected application development
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=fahimaislam2022&hide_border=true" />
+
+</div>
 
 ---
 
-## ⚙️ Tech & Tools
+## What My Repositories Focus On
 
-**Languages:**  
-`C#` `R` `PHP` `JavaScript` `C++` `Java` `Assembly`
+### Machine Learning & Data Science
+- regression and classification workflows
+- feature engineering and preprocessing
+- exploratory data analysis
+- model evaluation and interpretation
+- structured dataset analysis using reproducible pipelines
 
-**Concepts & Methods:**  
-`Machine Learning` `NLP` `Computer Vision` `Classification` `Regression` `Topic Modeling` `Clustering` `Feature Extraction` `Model Training` `Data Analysis` `Database Design`
+### Natural Language Processing
+- text preprocessing
+- tokenization, stemming, and lemmatization
+- TF-IDF and text vectorization workflows
+- sentiment classification
+- clustering and topic modeling
+- extracting patterns from large review datasets
 
-**Tools & Platforms:**  
-`PyTorch` `MS SQL` `phpMyAdmin` `RStudio` `Jupyter Notebook` `Git` `GitHub`
+### Computer Vision & Deep Learning
+- CNN-based classification
+- medical image analysis
+- augmentation and generalization techniques
+- model training and regularization
+- notebook-based experimentation for visual tasks
+
+### Web & Software Systems
+- C# desktop applications
+- SQL-integrated systems
+- HTML, CSS, JavaScript DOM work
+- PHP form validation and backend logic
+- database-connected application design
+
+### Core CS Practice
+- algorithms
+- graphics
+- computer organization
+- microprocessor and assembly work
+- digital logic and database fundamentals
 
 ---
 
-## 🌱 Current Mindset
+## Tech Stack
 
-I’m continuously improving my skills by working on projects that strengthen my understanding of:
+<div align="center">
 
-- intelligent systems
-- data-driven applications
-- full-stack development
-- real-world problem solving through code
+### Languages
+<img src="https://img.shields.io/badge/C%23-Expertise%20Projects-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-Web%20Logic-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Interactive%20UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Academic%20Practice-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-Low%20Level%20Learning-6E4C13?style=for-the-badge" />
+
+### Frameworks, Tools & Platforms
+<img src="https://img.shields.io/badge/Windows%20Forms-Desktop%20Apps-0078D6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Server-Database%20Integration-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/ADO.NET-Data%20Connectivity-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook%20Workflow-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-Database%20Management-6C78AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Project%20Showcase-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
 
-## 📌 On This Profile
+## Methods & Learning Themes
 
-Here you’ll find projects related to:
-
-✨ Machine Learning  
-✨ NLP  
-✨ Deep Learning  
-✨ Web Development  
-✨ Database Systems  
-✨ Academic and practical CS work
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile — feel free to explore my repositories and follow my learning journey.</i>
-</p>
+```text
+Data Preprocessing      | Classification         | Regression
+Clustering              | Topic Modeling         | Sentiment Analysis
+CNN Architectures       | Feature Extraction     | Regularization
+EDA                     | Model Evaluation       | Database Integration
+Authentication Systems  | CRUD Operations        | Interactive UI Work
