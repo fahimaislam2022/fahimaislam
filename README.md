@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  My GitHub is more than just a place to store code — it’s a growing record of my learning journey,
+  My GitHub is more than just a place to store code it’s a growing record of my learning journey,
   experiments, and projects across multiple technical fields.
 </p>
 
@@ -108,10 +108,7 @@
   <img src="https://img.shields.io/badge/Regression%20%26%20Classification-Mental%20Health%20Prediction-FF69B4?style=for-the-badge" />
 </p>
 
-<p align="center">
-  End-to-end notebooks covering <b>data cleaning</b>, <b>feature engineering</b>, <b>model training</b>,
-  <b>evaluation</b>, and <b>visualization</b>.
-</p>
+
 
 ### 🧠 Natural Language Processing
 <p align="center">
@@ -120,10 +117,7 @@
   <img src="https://img.shields.io/badge/Text%20Preprocessing-Feature%20Extraction-20B2AA?style=for-the-badge" />
 </p>
 
-<p align="center">
-  NLP experiments built with <b>R</b>, including <b>sentiment analysis</b>, <b>text preprocessing</b>,
-  <b>token handling</b>, <b>feature extraction</b>, and <b>model evaluation</b>.
-</p>
+
 
 ### 📊 Data Science & Analytics
 <p align="center">
@@ -132,10 +126,7 @@
   <img src="https://img.shields.io/badge/Python%20%26%20R-Reproducible%20Notebooks-32CD32?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Projects focused on <b>exploratory analysis</b>, <b>statistical reasoning</b>, and <b>predictive modeling</b>
-  with clean visualizations, structured pipelines, and interpretable results.
-</p>
+
 
 ### 🌐 Full-Stack Web Systems
 <p align="center">
@@ -143,10 +134,7 @@
   <img src="https://img.shields.io/badge/Super%20Shop%20System-C%23%20%7C%20SQL%20Server-8B008B?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Hands-on full-stack projects featuring <b>session handling</b>, <b>responsive UI</b>, <b>CRUD operations</b>,
-  <b>form validation</b>, <b>database design</b>, <b>inventory logic</b>, and <b>user management</b>.
-</p>
+
 
 ### ⚙️ Systems & Graphics Programming
 <p align="center">
@@ -155,10 +143,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Graphics%20%26%20Simulation-2E8B57?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Work in <b>assembly programming</b>, <b>digital logic</b>, <b>microprocessor labs</b>, and
-  <b>C++ graphics/simulation projects</b>.
-</p>
 
 ---
 
