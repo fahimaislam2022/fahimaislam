@@ -25,11 +25,11 @@
   thoughtful documentation, and reproducible workflows.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-%F0%9F%A7%A0-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%93%8A-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Development-%F0%9F%8C%90-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-%E2%9A%99%EF%B8%8F-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Web%20Development-FF69B4?style=for-the-badge" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-FF8C00?style=for-the-badge" alt="Systems and Graphics" />
 </p>
 
 
