@@ -21,7 +21,7 @@
 <p align="center">
   I’m a passionate <b>Computer Science student from AIUB</b> and an <b>aspiring Machine Learning Engineer</b><br>
   who enjoys transforming ideas into practical, real-world projects.My GitHub is more than just a place to store code it’s a growing record of my learning journey,
-  experiments, and projects across multiple technical fields.I enjoy building projects that are both <b>practical</b> and <b>educational</b> — with clean structure,
+  experiments, and projects across multiple technical fields.I enjoy building projects that are both <b>practical</b> and <b>educational</b>  with clean structure,
   thoughtful documentation, and reproducible workflows.
 </p>
 <p align="center">
