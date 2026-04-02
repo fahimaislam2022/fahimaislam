@@ -22,7 +22,7 @@
   thoughtful documentation, and reproducible workflows.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-8A2BE2?style=for-the-badge" alt="NLP" />
   <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge" alt="Data Science" />
   <img src="https://img.shields.io/badge/Web%20Development-FF69B4?style=for-the-badge" alt="Web Development" />
