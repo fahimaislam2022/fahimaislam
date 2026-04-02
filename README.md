@@ -142,7 +142,7 @@
 ## 📝 How I Approach Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Every+Project+is+a+Learning+Experience;From+Preprocessing+to+Deployment+Thinking;Clean+Code+Clear+Structure+Meaningful+Results" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Every+Project+is+a+Learning+Experience;Clean+Code+Clear+Structure+Meaningful+Results;From+Preprocessing+to+Practical+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -150,27 +150,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Preprocessing%20%26%20Feature%20Engineering-Handling%20Missing%20Values%20%7C%20Encoding%20%7C%20Normalization-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Selection-8A2BE2?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model%20Selection%20%26%20Evaluation-Regression%20%7C%20Classification%20%7C%20Ensembles%20%7C%20Deep%20Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evaluation-9932CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reporting-2E8B57?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visualization%20%26%20Reporting-Plots%20%7C%20Confusion%20Matrices%20%7C%20Explanations-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Readable%20Structure-FF7F50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version%20Control-FF69B4?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-Modular%20Code%20%7C%20Readable%20Structure-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-DB7093?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version%20Control%20%26%20Collaboration-From%20Prototype%20to%20Polished%20Solution-FF69B4?style=for-the-badge" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
