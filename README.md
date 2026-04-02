@@ -5,17 +5,14 @@
 </p>
 <p align="center">
   <a href="https://github.com/fahimaislam2022">
-    <img src="https://img.shields.io/badge/GitHub-fahimaislam2022-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="http://www.linkedin.com/in/fahima-islam-a375a7263">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/fahima-islam-a375a7263">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sites.google.com/view/fahima-islam2000/home">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Now-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahimaislam2022&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
