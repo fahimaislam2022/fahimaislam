@@ -1,135 +1,79 @@
-# fahimaislam
-# Hi there, I'm Fahima Islam 👋
+
+A few parts of that README are intentionally “interactive”: the typing banner, collapsible section, dynamic GitHub stats, trophies, and live profile counter. The project descriptions and profile facts were aligned to the public profile/repository page and linked portfolio/LinkedIn shown there. :contentReference[oaicite:1]{index=1}
+
+To publish it:
+
+1. Create a new repository named **`fahimaislam2022`**
+2. Make it **public**
+3. Add a file named **`README.md`**
+4. Paste the content above
+5. Commit it
+
+Here’s a more polished version with a stronger “interactive portfolio” feel:
+
+md
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Fahima Islam
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&duration=2800&pause=1000&color=7A3EF0&center=true&vCenter=true&width=700&lines=C%23+Developer;Machine+Learning+Enthusiast;R+Programmer;Web+Tech+Learner;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/fahimaislam2022">
-    <img src="https://img.shields.io/github/followers/fahimaislam2022?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/fahimaislam2022?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-23-blueviolet?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Dhaka-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20ML-informational?style=for-the-badge" />
-</p>
-
----
-
-## 🌟 About Me
-
-I’m **Fahima Islam**, a passionate learner and developer from **Dhaka** who enjoys building projects across:
-
-- 💻 **Desktop applications** with **C#** and **Windows Forms**
-- 🌐 **Web development** with **HTML, CSS, JavaScript, PHP**
-- 📊 **Data Science & Machine Learning** using **R** and **Python**
-- 🧠 Exploring **Computer Vision**, **NLP**, and **predictive modeling**
-
-I love working on academic and practical projects that strengthen both my programming and problem-solving skills.
-
----
-
-## 🚀 What I’m Working On
-
-- Building management systems and desktop-based solutions
-- Practicing machine learning and data analysis projects
-- Exploring computer vision and pattern recognition
-- Improving full-stack and database skills
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,php,py,html,css,js" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,git,github" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🛒 CSharp
-**Super Shop Management System using C# and MS SQL**  
-A desktop-based supermarket management system built with C# and SQL Server.
-
-### 🏨 Hotel Management System
-A hotel management project using **HTML, CSS, JavaScript, PHP**, with validation and database support.
-
-### 🍔 Automated NLP Pipeline on Amazon Food Reviews
-An **R-based NLP and machine learning** project for processing and analyzing Amazon food review data.
-
-### 🧠 Mental Health Outcome Prediction
-A machine learning project in **R** using **regression and classification** techniques for lifestyle-based prediction.
-
-### 🔬 CNN Metastatic Tissue Classification (PCAM)
-A **deep learning / computer vision** project for classifying histopathology images as tumor or non-tumor.
-
----
-
-## 📚 Currently Exploring
-
-- Machine Learning algorithms
-- Computer Vision and Pattern Recognition
-- Data Science workflows
-- Database-driven application development
-- Better UI design for desktop and web applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimaislam2022&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;C%23+Developer+%7C+ML+Enthusiast;R+Programmer+%7C+Web+Tech+Learner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <a href="https://github.com/fahimaislam2022"><img src="https://img.shields.io/github/followers/fahimaislam2022?style=flat-square&logo=github&label=Followers" /></a>
+  <a href="https://github.com/fahimaislam2022?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-23-blue?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Dhaka-brightgreen?style=flat-square" />
 </p>
 
----
+## 👩‍💻 Who Am I?
 
-## 🏆 GitHub Activity
+I am **Fahima Islam**, a curious and motivated developer who enjoys building software projects, exploring machine learning, and improving technical skills through hands-on work.
+
+### 🔍 My Interests
+- Desktop application development
+- Machine learning and data analysis
+- Computer vision and NLP
+- Web technologies and database systems
+
+## 🧰 Skills
+
+**Programming:**  
+`C#` `R` `Python` `PHP` `JavaScript` `C++` `Java`
+
+**Development Areas:**  
+`Windows Forms` `SQL Server` `ADO.NET` `HTML` `CSS` `DOM` `PHPMyAdmin`
+
+**Learning Areas:**  
+`=Computer Vision` `Pattern Recognition` `Deep Learning` `Predictive Modeling`
+
+## 🌟 Highlighted Work
+
+| Project | Area | Summary |
+|---|---|---|
+| CSharp | Desktop App | Super shop management system using C# and MS SQL |
+| Hotel-Management-System | Web App | Hotel management app with HTML, CSS, JS, PHP |
+| Automated-NLP-Pipeline-on-Amazon-Food-Reviews-R-NLP-Machine-Learning- | NLP/ML | R-based review analysis pipeline |
+| Mental-Health-Outcome-Prediction-from-Lifestyle-Data-R-Regression-Classification- | ML | Regression and classification project |
+| CNN-METASTATIC-TISSUE-CLASSIFICATION-PCAM | Deep Learning | CNN model for cancer tissue image classification |
+
+## 📈 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahimaislam2022&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&theme=radical" height="165" />
 </p>
 
----
+## 🔗 Find Me Online
 
-## 🌐 Connect With Me
+- 🌐 Portfolio: https://sites.google.com/view/fahima-islam2000/home
+- 💼 LinkedIn: https://www.linkedin.com/in/fahima-islam-a375a7263
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fahima-islam-a375a7263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fahima%20Islam-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://sites.google.com/view/fahima-islam2000/home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+## 🎯 Goal
 
----
+To grow as a software developer by combining academic learning with practical project development in software engineering, data science, and AI.
 
-## 💬 A Little More About Me
+<details>
+  <summary>More about me</summary>
 
-```text
-Name: Fahima Islam
-Location: Dhaka
-Interests: Software Development, Machine Learning, Data Science
-Learning Style: Build projects, practice consistently, improve daily
-Goal: Become a stronger developer through real-world and academic projects
+I like building projects that solve practical problems and help me deepen my understanding of programming, databases, and intelligent systems.
+
+</details>
