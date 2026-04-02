@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
 <h3 align="center">CS Student • Aspiring ML Engineer • Turning Ideas into Code</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;NLP+Data+Science+LearnerComputer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Exploring+ML%2C+NLP%2C+Data+Science+%26+Web+Development;Turning+Ideas+into+Real%2C+Working+Systems;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;NLP+%26+Data+Science+Learner;Computer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/fahimaislam2022">
