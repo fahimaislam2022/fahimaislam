@@ -1,132 +1,99 @@
-<!-- =========================
-     PREMIUM GITHUB PROFILE README
-     for: fahimaislam2022
-========================= -->
-
 <div align="center">
 
 # Fahima Islam
-### Building across **Machine Learning · NLP · Computer Vision · Web Systems · Databases**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=850&lines=Turning+ideas+into+projects+through+code+and+experimentation;Exploring+R%2C+C%23%2C+PHP%2C+C%2B%2B%2C+Java%2C+Assembly+and+Notebook-based+workflows;Working+on+NLP%2C+predictive+modeling%2C+CNNs%2C+database-driven+systems+and+web+applications;Learning+by+building%2C+testing%2C+improving+and+shipping+real+projects" alt="Typing SVG" />
+### Machine Learning · NLP · Computer Vision · Web Systems · Databases
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=700&lines=Repo-based+projects+across+AI%2C+software+systems%2C+and+web+development;Building+with+R%2C+C%23%2C+PHP%2C+JavaScript%2C+C%2B%2B%2C+Java%2C+Assembly;Focused+on+NLP%2C+predictive+modeling%2C+CNNs%2C+SQL%2C+and+interactive+apps" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Repositories-Project%20Focused-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Portfolio-Repo%20Based-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Currently%20Exploring-AI%20%7C%20Systems%20%7C%20Web-success?style=for-the-badge" />
+## Languages
+
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=c%23">
+  <img src="https://img.shields.io/badge/C%23-Projects-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=r">
+  <img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=php">
+  <img src="https://img.shields.io/badge/PHP-Web-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=javascript">
+  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=c%2B%2B">
+  <img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories&q=&type=&language=java">
+  <img src="https://img.shields.io/badge/Java-Practice-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
+<a href="https://github.com/fahimaislam2022?tab=repositories">
+  <img src="https://img.shields.io/badge/Assembly-Low%20Level-6E4C13?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Repo%20Based-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Projects-AI%20%7C%20Systems%20%7C%20Web-blue?style=for-the-badge" />
 
 </div>
 
 ---
 
-## About This Profile
+## About Me
 
-I use GitHub as a practical learning space where I build, test, and improve projects across multiple domains of computer science and software engineering.
+I build **repo-based projects** across **machine learning, NLP, computer vision, web development, and database systems**.
 
-This profile reflects work in:
-
-- **Machine Learning**
-- **Natural Language Processing**
-- **Computer Vision**
-- **Deep Learning**
-- **Database-Driven Applications**
-- **Web Development**
-- **Core CS coursework and implementation-based practice**
-
-My repositories combine **hands-on development**, **data-driven experimentation**, and **problem-solving through code** — from management systems and interactive web projects to predictive modeling, sentiment analysis, clustering, topic modeling, and CNN-based image classification.
+My work focuses on:
+- **predictive modeling**
+- **sentiment analysis**
+- **text preprocessing**
+- **classification & regression**
+- **clustering & topic modeling**
+- **CNN-based image classification**
+- **SQL-integrated systems**
+- **interactive web applications**
 
 ---
 
-## Interactive Snapshot
+## Repo Highlights
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=fahimaislam2022&hide_border=true" />
-
-</div>
-
----
-
-## What My Repositories Focus On
-
-### Machine Learning & Data Science
-- regression and classification workflows
-- feature engineering and preprocessing
-- exploratory data analysis
-- model evaluation and interpretation
-- structured dataset analysis using reproducible pipelines
-
-### Natural Language Processing
-- text preprocessing
-- tokenization, stemming, and lemmatization
-- TF-IDF and text vectorization workflows
-- sentiment classification
-- clustering and topic modeling
-- extracting patterns from large review datasets
-
-### Computer Vision & Deep Learning
-- CNN-based classification
-- medical image analysis
-- augmentation and generalization techniques
-- model training and regularization
-- notebook-based experimentation for visual tasks
-
-### Web & Software Systems
-- C# desktop applications
-- SQL-integrated systems
-- HTML, CSS, JavaScript DOM work
-- PHP form validation and backend logic
-- database-connected application design
-
-### Core CS Practice
-- algorithms
-- graphics
-- computer organization
-- microprocessor and assembly work
-- digital logic and database fundamentals
+- **Machine Learning:** preprocessing, EDA, classification, regression  
+- **NLP:** tokenization, stemming, lemmatization, TF-IDF, sentiment analysis  
+- **Computer Vision:** CNNs, medical imaging, augmentation, model training  
+- **Web Systems:** HTML, CSS, JavaScript, PHP, validation, backend logic  
+- **Software & Databases:** C#, SQL Server, CRUD, role-based systems  
+- **Core CS:** algorithms, graphics, assembly, computer organization  
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Languages**  
+`C#` `R` `PHP` `JavaScript` `C++` `Java` `Assembly`
 
-### Languages
-<img src="https://img.shields.io/badge/C%23-Expertise%20Projects-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/R-Data%20Science-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-Web%20Logic-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Interactive%20UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-Core%20CS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Academic%20Practice-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-Low%20Level%20Learning-6E4C13?style=for-the-badge" />
+**Tools & Platforms**  
+`PyTorch` `Jupyter Notebook` `SQL Server` `phpMyAdmin` `Git` `GitHub`
 
-### Frameworks, Tools & Platforms
-<img src="https://img.shields.io/badge/Windows%20Forms-Desktop%20Apps-0078D6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL%20Server-Database%20Integration-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/ADO.NET-Data%20Connectivity-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook%20Workflow-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-Database%20Management-6C78AF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-Project%20Showcase-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
+**Methods**  
+`Classification` `Regression` `TF-IDF` `Clustering` `Topic Modeling` `CNN` `EDA` `Feature Extraction`
 
 ---
 
-## Methods & Learning Themes
+## Featured Repositories
 
-```text
-Data Preprocessing      | Classification         | Regression
-Clustering              | Topic Modeling         | Sentiment Analysis
-CNN Architectures       | Feature Extraction     | Regularization
-EDA                     | Model Evaluation       | Database Integration
-Authentication Systems  | CRUD Operations        | Interactive UI Work
+- **C# / SQL Server Systems** — desktop apps, authentication, CRUD, database integration  
+- **R NLP Projects** — text mining, sentiment analysis, topic modeling, vectorization  
+- **Predictive Modeling Projects** — regression, classification, feature-based analysis  
+- **Web Projects** — HTML, CSS, JavaScript, PHP, database-connected workflows  
+- **CNN Projects** — image classification, medical imaging, notebook-based experiments  
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimaislam2022&show_icons=true&hide_border=true)](https://github.com/fahimaislam2022)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimaislam2022&layout=compact&hide_border=true)](https://github.com/fahimaislam2022?tab=repositories)
+
+</div>
