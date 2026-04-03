@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum, I’m Fahima Islam 👋</h1>
-<h3 align="center">CS Student • Aspiring ML Engineer • Turning Ideas into Code</h3>
+<h3 align="center">CSE AIUB'26 • Aspiring ML Engineer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;NLP+%26+Data+Science+Learner;Computer+Science+Student+from+AIUB;Aspiring+Machine+Learning+Engineer;Full-Stack+Project+Builder;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/Systems%20%26%20Graphics-FF8C00?style=for-the-badge" alt="Systems and Graphics" />
 </p>
 
-<p align="center">
-
-- Passionate **Computer Science student at AIUB**
-- **Aspiring Machine Learning Engineer**
 
 ## What You’ll Find in My Repositories
 
